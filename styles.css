@@ -1,0 +1,28 @@
+body{
+    background-color:floralwhite; 
+    /* floral white is my favorite background color to use! */
+}
+
+.homework_details {
+    display:flex;
+    justify-content: center;
+    border:inset;
+    /* I love using inset/outset borders, but it makes the webpage feel like it the early 2000s. */
+    border-color:darkblue;
+}
+.byline{
+    display:flex;
+    align-content: center;
+    flex-wrap:wrap;
+    font-size:14px;
+    flex-direction:column;
+}
+
+.dateline{
+    display:flex;
+    align-content: center;
+    flex-wrap:wrap;
+    font-size:14px;
+    flex-direction:column;
+}
+
